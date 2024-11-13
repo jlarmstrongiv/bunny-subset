@@ -1,6 +1,6 @@
 {
   "name": "bunny-subset",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "type": "module",
   "description": "Subset fonts for Edge Scripting for bunny.net 🐰",
