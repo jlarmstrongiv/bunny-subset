@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node20/tsconfig.json",
+  "include": ["src/index.ts"],
+  "compilerOptions": {
+    "lib": ["DOM", "es2023"],
+    "declaration": true,
+    "declarationDir": "dist",
+    "emitDeclarationOnly": true
+  }
+}
